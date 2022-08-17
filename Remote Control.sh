@@ -1,3 +1,4 @@
+#!bin/bash
 #Greatings UserName by time
 function GR()
 {
