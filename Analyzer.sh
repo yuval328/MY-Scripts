@@ -1,6 +1,7 @@
 #!/bin/bash
 #Made by Yuval Ben Shimon
 
+
 #Greatings the UserName by time
 function GR()
 	{
